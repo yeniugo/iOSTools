@@ -46,6 +46,8 @@
 - 聊天，发消息<https://github.com/layerhq/Atlas-iOS>
 - 视频播放器，支持定制任何播放器SDK和控制层<https://github.com/renzifeng/ZFPlayer>
 - 动态表格<https://github.com/xmartlabs/XLForm>
+- 加密解密<https://github.com/RNCryptor/RNCryptor>
+- 加密解密，java和ios通用加密<https://github.com/WelkinXie/AESCipher-iOS>
 
 ## UIViewController
 
